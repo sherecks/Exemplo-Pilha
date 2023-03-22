@@ -1,0 +1,14 @@
+Os principais parâmetros para implementar uma pilha em C são:
+
+Tamanho da pilha: É importante definir o tamanho máximo que a pilha pode ter, pois isso afeta a alocação de memória e a capacidade da pilha.
+
+Topo da pilha: O topo da pilha é o elemento mais recentemente adicionado e é importante manter o controle dessa posição para permitir a inserção e remoção correta de elementos.
+
+Inserção: Quando um elemento é adicionado à pilha, ele deve ser colocado no topo da pilha e o topo deve ser atualizado.
+
+Remoção: Quando um elemento é removido da pilha, ele deve ser retirado do topo da pilha e o topo deve ser atualizado.
+
+Verificação se a pilha está cheia ou vazia: É importante verificar se a pilha está cheia ou vazia antes de inserir ou remover elementos para evitar erros de segmentação ou comportamentos inesperados.
+
+Tipo de dados: É importante definir o tipo de dados que será armazenado na pilha, pois isso afeta a alocação de memória e as operações que podem ser realizadas na pilha.
+
